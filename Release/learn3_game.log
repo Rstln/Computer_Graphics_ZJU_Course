@@ -1,0 +1,39 @@
+﻿  BaseOBJ.cpp
+  game.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\wave.h(56,16): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\game.cpp(206,31): warning C4305: “*=”: 从“double”到“float”截断
+  main.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\wave.h(56,16): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\main.cpp(17,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  OBJWriter.cpp
+  particle.cpp
+  paticle_generator.cpp
+  camera.cpp
+  mesh.cpp
+  model.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Resource\model.cpp(7,23): warning C4018: “<”: 有符号/无符号不匹配
+  resource_manager.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Resource\resource_manager.cpp(83,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Resource\resource_manager.cpp(147,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  shader.cpp
+  skybox.cpp
+  texture.cpp
+  lamp.cpp
+  Sphere.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\Sphere.cpp(47,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\Sphere.cpp(48,31): warning C4018: “<”: 有符号/无符号不匹配
+  wave.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\wave.h(56,16): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\wave.cpp(17,21): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Scene\wave.cpp(163,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Ship.cpp
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Ship\Ship.cpp(64,12): warning C4552: ”-“: 未使用表达式结果
+D:\OpenGL\Prjs\LearnOpenGL\learn3_game\learn3_game\Ship\Ship.cpp(66,12): warning C4552: ”+“: 未使用表达式结果
+  Stone.cpp
+  glad.c
+  正在生成代码
+  439 of 1230 functions (35.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    68 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  learn3_game.vcxproj -> D:\OpenGL\Prjs\LearnOpenGL\learn3_game\Release\learn3_game.exe
